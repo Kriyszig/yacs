@@ -1,0 +1,878 @@
+2020-12-01 18:49:23,114  ::  Starting worker
+2020-12-01 18:49:23,117  ::  Worker Started
+2020-12-01 18:49:24,836  ::  Received request from the Master
+2020-12-01 18:49:24,836  ::  Received request from the Master
+2020-12-01 18:49:24,837  ::  STARTING: Task with Task ID: 4_M2 on Worker
+2020-12-01 18:49:24,837  ::  STARTING: Task with Task ID: 4_M3 on Worker
+2020-12-01 18:49:26,775  ::  Received request from the Master
+2020-12-01 18:49:26,775  ::  STARTING: Task with Task ID: 1_R0 on Worker
+2020-12-01 18:49:27,839  ::  ENDING: Task with Task ID: 4_M2 on Worker that ran for 3.002083s
+2020-12-01 18:49:27,840  ::  Communicating the task end to master
+2020-12-01 18:49:28,777  ::  ENDING: Task with Task ID: 1_R0 on Worker that ran for 2.001359s
+2020-12-01 18:49:28,777  ::  Communicating the task end to master
+2020-12-01 18:49:28,838  ::  ENDING: Task with Task ID: 4_M3 on Worker that ran for 4.000832s
+2020-12-01 18:49:28,839  ::  Communicating the task end to master
+2020-12-01 18:49:35,077  ::  Starting worker
+2020-12-01 18:49:35,078  ::  Worker Started
+2020-12-01 18:49:37,674  ::  Received request from the Master
+2020-12-01 18:49:37,675  ::  STARTING: Task with Task ID: 1_M1 on Worker
+2020-12-01 18:49:39,372  ::  Received request from the Master
+2020-12-01 18:49:39,373  ::  STARTING: Task with Task ID: 2_M3 on Worker
+2020-12-01 18:49:39,654  ::  Received request from the Master
+2020-12-01 18:49:39,655  ::  STARTING: Task with Task ID: 3_M1 on Worker
+2020-12-01 18:49:40,656  ::  ENDING: Task with Task ID: 3_M1 on Worker that ran for 1.001141s
+2020-12-01 18:49:40,657  ::  Communicating the task end to master
+2020-12-01 18:49:40,676  ::  ENDING: Task with Task ID: 1_M1 on Worker that ran for 3.001584s
+2020-12-01 18:49:40,676  ::  Communicating the task end to master
+2020-12-01 18:49:40,678  ::  Received request from the Master
+2020-12-01 18:49:40,678  ::  Received request from the Master
+2020-12-01 18:49:40,678  ::  STARTING: Task with Task ID: 1_R0 on Worker
+2020-12-01 18:49:40,678  ::  STARTING: Task with Task ID: 1_R1 on Worker
+2020-12-01 18:49:42,376  ::  ENDING: Task with Task ID: 2_M3 on Worker that ran for 3.002848s
+2020-12-01 18:49:42,376  ::  Communicating the task end to master
+2020-12-01 18:49:42,679  ::  ENDING: Task with Task ID: 1_R0 on Worker that ran for 2.001458s
+2020-12-01 18:49:42,680  ::  Communicating the task end to master
+2020-12-01 18:49:42,680  ::  ENDING: Task with Task ID: 1_R1 on Worker that ran for 2.002212s
+2020-12-01 18:49:42,680  ::  Communicating the task end to master
+2020-12-01 18:49:43,917  ::  Received request from the Master
+2020-12-01 18:49:43,917  ::  STARTING: Task with Task ID: 4_R0 on Worker
+2020-12-01 18:49:47,921  ::  ENDING: Task with Task ID: 4_R0 on Worker that ran for 4.004093s
+2020-12-01 18:49:47,921  ::  Communicating the task end to master
+2020-12-01 18:49:50,090  ::  Starting worker
+2020-12-01 18:49:50,090  ::  Worker Started
+2020-12-01 18:49:50,442  ::  Received request from the Master
+2020-12-01 18:49:50,442  ::  STARTING: Task with Task ID: 1_M1 on Worker
+2020-12-01 18:49:51,552  ::  Received request from the Master
+2020-12-01 18:49:51,553  ::  Received request from the Master
+2020-12-01 18:49:51,554  ::  STARTING: Task with Task ID: 2_M1 on Worker
+2020-12-01 18:49:51,554  ::  STARTING: Task with Task ID: 2_M0 on Worker
+2020-12-01 18:49:53,445  ::  ENDING: Task with Task ID: 1_M1 on Worker that ran for 3.002958s
+2020-12-01 18:49:53,445  ::  Communicating the task end to master
+2020-12-01 18:49:53,446  ::  Received request from the Master
+2020-12-01 18:49:53,446  ::  STARTING: Task with Task ID: 1_R0 on Worker
+2020-12-01 18:49:54,556  ::  ENDING: Task with Task ID: 2_M1 on Worker that ran for 3.002092s
+2020-12-01 18:49:54,556  ::  Communicating the task end to master
+2020-12-01 18:49:55,449  ::  ENDING: Task with Task ID: 1_R0 on Worker that ran for 2.002291s
+2020-12-01 18:49:55,449  ::  Communicating the task end to master
+2020-12-01 18:49:55,554  ::  ENDING: Task with Task ID: 2_M0 on Worker that ran for 4.000336s
+2020-12-01 18:49:55,554  ::  Communicating the task end to master
+2020-12-01 18:49:57,005  ::  Received request from the Master
+2020-12-01 18:49:57,005  ::  Received request from the Master
+2020-12-01 18:49:57,005  ::  STARTING: Task with Task ID: 4_R0 on Worker
+2020-12-01 18:49:57,006  ::  STARTING: Task with Task ID: 4_R1 on Worker
+2020-12-01 18:50:01,010  ::  ENDING: Task with Task ID: 4_R0 on Worker that ran for 4.004614s
+2020-12-01 18:50:01,010  ::  Communicating the task end to master
+2020-12-01 18:50:01,010  ::  ENDING: Task with Task ID: 4_R1 on Worker that ran for 4.004801s
+2020-12-01 18:50:01,011  ::  Communicating the task end to master
+2020-12-01 18:50:03,166  ::  Starting worker
+2020-12-01 18:50:03,170  ::  Worker Started
+2020-12-01 18:50:09,278  ::  Received request from the Master
+2020-12-01 18:50:09,279  ::  STARTING: Task with Task ID: 4_M3 on Worker
+2020-12-01 18:50:11,522  ::  Received request from the Master
+2020-12-01 18:50:11,522  ::  STARTING: Task with Task ID: 2_R0 on Worker
+2020-12-01 18:50:11,542  ::  Received request from the Master
+2020-12-01 18:50:11,542  ::  STARTING: Task with Task ID: 3_R0 on Worker
+2020-12-01 18:50:12,543  ::  ENDING: Task with Task ID: 3_R0 on Worker that ran for 1.001137s
+2020-12-01 18:50:12,544  ::  Communicating the task end to master
+2020-12-01 18:50:13,280  ::  ENDING: Task with Task ID: 4_M3 on Worker that ran for 4.001003s
+2020-12-01 18:50:13,280  ::  Communicating the task end to master
+2020-12-01 18:50:13,281  ::  Received request from the Master
+2020-12-01 18:50:13,282  ::  Received request from the Master
+2020-12-01 18:50:13,282  ::  STARTING: Task with Task ID: 4_R0 on Worker
+2020-12-01 18:50:13,282  ::  STARTING: Task with Task ID: 4_R1 on Worker
+2020-12-01 18:50:15,526  ::  ENDING: Task with Task ID: 2_R0 on Worker that ran for 4.003705s
+2020-12-01 18:50:15,526  ::  Communicating the task end to master
+2020-12-01 18:50:17,283  ::  ENDING: Task with Task ID: 4_R0 on Worker that ran for 4.001491s
+2020-12-01 18:50:17,284  ::  Communicating the task end to master
+2020-12-01 18:50:17,284  ::  ENDING: Task with Task ID: 4_R1 on Worker that ran for 4.001744s
+2020-12-01 18:50:17,284  ::  Communicating the task end to master
+2020-12-01 18:50:40,470  ::  Starting worker
+2020-12-01 18:50:40,472  ::  Worker Started
+2020-12-01 18:50:41,169  ::  Received request from the Master
+2020-12-01 18:50:41,169  ::  STARTING: Task with Task ID: 1_M1 on Worker
+2020-12-01 18:50:42,512  ::  Received request from the Master
+2020-12-01 18:50:42,513  ::  STARTING: Task with Task ID: 2_M0 on Worker
+2020-12-01 18:50:43,757  ::  Received request from the Master
+2020-12-01 18:50:43,757  ::  STARTING: Task with Task ID: 3_M2 on Worker
+2020-12-01 18:50:44,171  ::  ENDING: Task with Task ID: 1_M1 on Worker that ran for 3.002386s
+2020-12-01 18:50:44,172  ::  Communicating the task end to master
+2020-12-01 18:50:44,173  ::  Received request from the Master
+2020-12-01 18:50:44,173  ::  STARTING: Task with Task ID: 1_R1 on Worker
+2020-12-01 18:50:44,759  ::  ENDING: Task with Task ID: 3_M2 on Worker that ran for 1.000968s
+2020-12-01 18:50:44,759  ::  Communicating the task end to master
+2020-12-01 18:50:45,376  ::  Received request from the Master
+2020-12-01 18:50:45,377  ::  STARTING: Task with Task ID: 5_M1 on Worker
+2020-12-01 18:50:46,175  ::  ENDING: Task with Task ID: 1_R1 on Worker that ran for 2.001818s
+2020-12-01 18:50:46,176  ::  Communicating the task end to master
+2020-12-01 18:50:46,377  ::  Received request from the Master
+2020-12-01 18:50:46,377  ::  ENDING: Task with Task ID: 5_M1 on Worker that ran for 1.00025s
+2020-12-01 18:50:46,377  ::  Communicating the task end to master
+2020-12-01 18:50:46,377  ::  STARTING: Task with Task ID: 5_M3 on Worker
+2020-12-01 18:50:46,514  ::  ENDING: Task with Task ID: 2_M0 on Worker that ran for 4.000856s
+2020-12-01 18:50:46,514  ::  Communicating the task end to master
+2020-12-01 18:50:46,516  ::  Received request from the Master
+2020-12-01 18:50:46,516  ::  STARTING: Task with Task ID: 2_R0 on Worker
+2020-12-01 18:50:50,379  ::  ENDING: Task with Task ID: 5_M3 on Worker that ran for 4.002029s
+2020-12-01 18:50:50,380  ::  Communicating the task end to master
+2020-12-01 18:50:50,381  ::  Received request from the Master
+2020-12-01 18:50:50,381  ::  STARTING: Task with Task ID: 5_R0 on Worker
+2020-12-01 18:50:50,516  ::  ENDING: Task with Task ID: 2_R0 on Worker that ran for 4.000391s
+2020-12-01 18:50:50,517  ::  Communicating the task end to master
+2020-12-01 18:50:51,383  ::  ENDING: Task with Task ID: 5_R0 on Worker that ran for 1.001714s
+2020-12-01 18:50:51,383  ::  Communicating the task end to master
+2020-12-01 18:50:51,835  ::  Received request from the Master
+2020-12-01 18:50:51,835  ::  Received request from the Master
+2020-12-01 18:50:51,835  ::  STARTING: Task with Task ID: 7_M0 on Worker
+2020-12-01 18:50:51,836  ::  STARTING: Task with Task ID: 7_M1 on Worker
+2020-12-01 18:50:54,839  ::  ENDING: Task with Task ID: 7_M0 on Worker that ran for 3.003656s
+2020-12-01 18:50:54,839  ::  Communicating the task end to master
+2020-12-01 18:50:55,414  ::  Received request from the Master
+2020-12-01 18:50:55,415  ::  STARTING: Task with Task ID: 9_M2 on Worker
+2020-12-01 18:50:55,836  ::  ENDING: Task with Task ID: 7_M1 on Worker that ran for 4.00044s
+2020-12-01 18:50:55,836  ::  Communicating the task end to master
+2020-12-01 18:50:55,838  ::  Received request from the Master
+2020-12-01 18:50:55,839  ::  STARTING: Task with Task ID: 7_R1 on Worker
+2020-12-01 18:50:57,841  ::  ENDING: Task with Task ID: 7_R1 on Worker that ran for 2.002161s
+2020-12-01 18:50:57,841  ::  Communicating the task end to master
+2020-12-01 18:50:59,416  ::  ENDING: Task with Task ID: 9_M2 on Worker that ran for 4.001502s
+2020-12-01 18:50:59,417  ::  Communicating the task end to master
+2020-12-01 18:50:59,418  ::  Received request from the Master
+2020-12-01 18:50:59,419  ::  STARTING: Task with Task ID: 9_R1 on Worker
+2020-12-01 18:51:01,419  ::  ENDING: Task with Task ID: 9_R1 on Worker that ran for 2.000806s
+2020-12-01 18:51:01,420  ::  Communicating the task end to master
+2020-12-01 18:51:15,579  ::  Starting worker
+2020-12-01 18:51:15,580  ::  Worker Started
+2020-12-01 18:51:17,068  ::  Received request from the Master
+2020-12-01 18:51:17,068  ::  STARTING: Task with Task ID: 1_M1 on Worker
+2020-12-01 18:51:17,865  ::  Received request from the Master
+2020-12-01 18:51:17,866  ::  Received request from the Master
+2020-12-01 18:51:17,866  ::  STARTING: Task with Task ID: 2_M1 on Worker
+2020-12-01 18:51:17,866  ::  STARTING: Task with Task ID: 2_M0 on Worker
+2020-12-01 18:51:20,072  ::  ENDING: Task with Task ID: 1_M1 on Worker that ran for 3.003219s
+2020-12-01 18:51:20,072  ::  Communicating the task end to master
+2020-12-01 18:51:20,278  ::  Received request from the Master
+2020-12-01 18:51:20,279  ::  STARTING: Task with Task ID: 5_M1 on Worker
+2020-12-01 18:51:20,868  ::  ENDING: Task with Task ID: 2_M1 on Worker that ran for 3.0013s
+2020-12-01 18:51:20,868  ::  Communicating the task end to master
+2020-12-01 18:51:21,281  ::  ENDING: Task with Task ID: 5_M1 on Worker that ran for 1.001057s
+2020-12-01 18:51:21,281  ::  Communicating the task end to master
+2020-12-01 18:51:21,281  ::  Received request from the Master
+2020-12-01 18:51:21,282  ::  STARTING: Task with Task ID: 5_M3 on Worker
+2020-12-01 18:51:21,868  ::  ENDING: Task with Task ID: 2_M0 on Worker that ran for 4.001645s
+2020-12-01 18:51:21,868  ::  Communicating the task end to master
+2020-12-01 18:51:22,283  ::  Received request from the Master
+2020-12-01 18:51:22,284  ::  Received request from the Master
+2020-12-01 18:51:22,285  ::  STARTING: Task with Task ID: 2_R0 on Worker
+2020-12-01 18:51:22,285  ::  STARTING: Task with Task ID: 3_R0 on Worker
+2020-12-01 18:51:23,286  ::  ENDING: Task with Task ID: 3_R0 on Worker that ran for 1.000582s
+2020-12-01 18:51:23,286  ::  Communicating the task end to master
+2020-12-01 18:51:24,253  ::  Received request from the Master
+2020-12-01 18:51:24,254  ::  STARTING: Task with Task ID: 4_R1 on Worker
+2020-12-01 18:51:25,284  ::  ENDING: Task with Task ID: 5_M3 on Worker that ran for 4.002017s
+2020-12-01 18:51:25,284  ::  Communicating the task end to master
+2020-12-01 18:51:25,286  ::  Received request from the Master
+2020-12-01 18:51:25,286  ::  STARTING: Task with Task ID: 5_R0 on Worker
+2020-12-01 18:51:26,286  ::  ENDING: Task with Task ID: 2_R0 on Worker that ran for 4.000857s
+2020-12-01 18:51:26,287  ::  Communicating the task end to master
+2020-12-01 18:51:26,287  ::  ENDING: Task with Task ID: 5_R0 on Worker that ran for 1.000566s
+2020-12-01 18:51:26,287  ::  Communicating the task end to master
+2020-12-01 18:51:26,289  ::  Received request from the Master
+2020-12-01 18:51:26,289  ::  STARTING: Task with Task ID: 6_R0 on Worker
+2020-12-01 18:51:27,291  ::  ENDING: Task with Task ID: 6_R0 on Worker that ran for 1.001309s
+2020-12-01 18:51:27,291  ::  Communicating the task end to master
+2020-12-01 18:51:28,255  ::  ENDING: Task with Task ID: 4_R1 on Worker that ran for 4.001392s
+2020-12-01 18:51:28,255  ::  Communicating the task end to master
+2020-12-01 18:51:43,144  ::  Starting worker
+2020-12-01 18:51:43,146  ::  Worker Started
+2020-12-01 18:51:47,807  ::  Received request from the Master
+2020-12-01 18:51:47,807  ::  Received request from the Master
+2020-12-01 18:51:47,807  ::  Received request from the Master
+2020-12-01 18:51:47,808  ::  STARTING: Task with Task ID: 4_M1 on Worker
+2020-12-01 18:51:47,808  ::  STARTING: Task with Task ID: 4_M0 on Worker
+2020-12-01 18:51:47,809  ::  STARTING: Task with Task ID: 4_M2 on Worker
+2020-12-01 18:51:48,810  ::  ENDING: Task with Task ID: 4_M1 on Worker that ran for 1.001388s
+2020-12-01 18:51:48,810  ::  Communicating the task end to master
+2020-12-01 18:51:50,497  ::  Received request from the Master
+2020-12-01 18:51:50,498  ::  STARTING: Task with Task ID: 8_M2 on Worker
+2020-12-01 18:51:50,809  ::  ENDING: Task with Task ID: 4_M0 on Worker that ran for 3.000929s
+2020-12-01 18:51:50,810  ::  Communicating the task end to master
+2020-12-01 18:51:50,810  ::  ENDING: Task with Task ID: 4_M2 on Worker that ran for 3.001202s
+2020-12-01 18:51:50,810  ::  Communicating the task end to master
+2020-12-01 18:51:51,500  ::  ENDING: Task with Task ID: 8_M2 on Worker that ran for 1.001539s
+2020-12-01 18:51:51,500  ::  Communicating the task end to master
+2020-12-01 18:51:51,520  ::  Received request from the Master
+2020-12-01 18:51:51,520  ::  Received request from the Master
+2020-12-01 18:51:51,520  ::  Received request from the Master
+2020-12-01 18:51:51,521  ::  STARTING: Task with Task ID: 10_M1 on Worker
+2020-12-01 18:51:51,521  ::  STARTING: Task with Task ID: 10_M2 on Worker
+2020-12-01 18:51:51,521  ::  STARTING: Task with Task ID: 10_M0 on Worker
+2020-12-01 18:51:52,522  ::  ENDING: Task with Task ID: 10_M1 on Worker that ran for 1.001444s
+2020-12-01 18:51:52,522  ::  Communicating the task end to master
+2020-12-01 18:51:52,998  ::  Received request from the Master
+2020-12-01 18:51:52,999  ::  STARTING: Task with Task ID: 5_R0 on Worker
+2020-12-01 18:51:54,000  ::  ENDING: Task with Task ID: 5_R0 on Worker that ran for 1.000917s
+2020-12-01 18:51:54,000  ::  Communicating the task end to master
+2020-12-01 18:51:54,523  ::  ENDING: Task with Task ID: 10_M2 on Worker that ran for 3.001723s
+2020-12-01 18:51:54,523  ::  Communicating the task end to master
+2020-12-01 18:51:55,381  ::  Received request from the Master
+2020-12-01 18:51:55,381  ::  Received request from the Master
+2020-12-01 18:51:55,381  ::  STARTING: Task with Task ID: 11_M3 on Worker
+2020-12-01 18:51:55,382  ::  STARTING: Task with Task ID: 11_M1 on Worker
+2020-12-01 18:51:55,522  ::  ENDING: Task with Task ID: 10_M0 on Worker that ran for 4.001192s
+2020-12-01 18:51:55,522  ::  Communicating the task end to master
+2020-12-01 18:51:55,668  ::  Received request from the Master
+2020-12-01 18:51:55,668  ::  STARTING: Task with Task ID: 12_M0 on Worker
+2020-12-01 18:51:56,383  ::  ENDING: Task with Task ID: 11_M3 on Worker that ran for 1.001212s
+2020-12-01 18:51:56,383  ::  Communicating the task end to master
+2020-12-01 18:51:56,670  ::  Received request from the Master
+2020-12-01 18:51:56,671  ::  STARTING: Task with Task ID: 12_M2 on Worker
+2020-12-01 18:51:57,669  ::  ENDING: Task with Task ID: 12_M0 on Worker that ran for 2.001541s
+2020-12-01 18:51:57,670  ::  Communicating the task end to master
+2020-12-01 18:51:58,383  ::  ENDING: Task with Task ID: 11_M1 on Worker that ran for 3.00127s
+2020-12-01 18:51:58,383  ::  Communicating the task end to master
+2020-12-01 18:51:59,673  ::  ENDING: Task with Task ID: 12_M2 on Worker that ran for 3.001846s
+2020-12-01 18:51:59,673  ::  Communicating the task end to master
+2020-12-01 18:52:26,132  ::  Starting worker
+2020-12-01 18:52:26,134  ::  Worker Started
+2020-12-01 18:52:26,998  ::  Received request from the Master
+2020-12-01 18:52:26,998  ::  STARTING: Task with Task ID: 1_M1 on Worker
+2020-12-01 18:52:27,185  ::  Received request from the Master
+2020-12-01 18:52:27,185  ::  STARTING: Task with Task ID: 2_M0 on Worker
+2020-12-01 18:52:29,290  ::  Received request from the Master
+2020-12-01 18:52:29,290  ::  STARTING: Task with Task ID: 3_M2 on Worker
+2020-12-01 18:52:30,000  ::  ENDING: Task with Task ID: 1_M1 on Worker that ran for 3.001755s
+2020-12-01 18:52:30,001  ::  Communicating the task end to master
+2020-12-01 18:52:30,002  ::  Received request from the Master
+2020-12-01 18:52:30,002  ::  STARTING: Task with Task ID: 1_R0 on Worker
+2020-12-01 18:52:30,292  ::  ENDING: Task with Task ID: 3_M2 on Worker that ran for 1.001511s
+2020-12-01 18:52:30,292  ::  Communicating the task end to master
+2020-12-01 18:52:31,188  ::  ENDING: Task with Task ID: 2_M0 on Worker that ran for 4.002529s
+2020-12-01 18:52:31,188  ::  Communicating the task end to master
+2020-12-01 18:52:31,235  ::  Received request from the Master
+2020-12-01 18:52:31,235  ::  Received request from the Master
+2020-12-01 18:52:31,236  ::  STARTING: Task with Task ID: 5_M1 on Worker
+2020-12-01 18:52:31,236  ::  STARTING: Task with Task ID: 5_M0 on Worker
+2020-12-01 18:52:32,003  ::  ENDING: Task with Task ID: 1_R0 on Worker that ran for 2.001094s
+2020-12-01 18:52:32,004  ::  Communicating the task end to master
+2020-12-01 18:52:32,236  ::  ENDING: Task with Task ID: 5_M1 on Worker that ran for 1.000451s
+2020-12-01 18:52:32,237  ::  Communicating the task end to master
+2020-12-01 18:52:32,369  ::  Received request from the Master
+2020-12-01 18:52:32,369  ::  Received request from the Master
+2020-12-01 18:52:32,369  ::  STARTING: Task with Task ID: 7_M1 on Worker
+2020-12-01 18:52:32,369  ::  STARTING: Task with Task ID: 2_R0 on Worker
+2020-12-01 18:52:33,238  ::  ENDING: Task with Task ID: 5_M0 on Worker that ran for 2.001652s
+2020-12-01 18:52:33,238  ::  Communicating the task end to master
+2020-12-01 18:52:33,595  ::  Received request from the Master
+2020-12-01 18:52:33,596  ::  STARTING: Task with Task ID: 8_M2 on Worker
+2020-12-01 18:52:34,597  ::  ENDING: Task with Task ID: 8_M2 on Worker that ran for 1.001186s
+2020-12-01 18:52:34,597  ::  Communicating the task end to master
+2020-12-01 18:52:35,021  ::  Received request from the Master
+2020-12-01 18:52:35,022  ::  STARTING: Task with Task ID: 10_M1 on Worker
+2020-12-01 18:52:36,023  ::  ENDING: Task with Task ID: 10_M1 on Worker that ran for 1.000539s
+2020-12-01 18:52:36,023  ::  Communicating the task end to master
+2020-12-01 18:52:36,300  ::  Received request from the Master
+2020-12-01 18:52:36,301  ::  STARTING: Task with Task ID: 6_R1 on Worker
+2020-12-01 18:52:36,370  ::  ENDING: Task with Task ID: 7_M1 on Worker that ran for 4.000231s
+2020-12-01 18:52:36,370  ::  Communicating the task end to master
+2020-12-01 18:52:36,370  ::  ENDING: Task with Task ID: 2_R0 on Worker that ran for 4.000386s
+2020-12-01 18:52:36,370  ::  Communicating the task end to master
+2020-12-01 18:52:37,303  ::  Received request from the Master
+2020-12-01 18:52:37,303  ::  Received request from the Master
+2020-12-01 18:52:37,305  ::  STARTING: Task with Task ID: 11_M2 on Worker
+2020-12-01 18:52:37,305  ::  STARTING: Task with Task ID: 7_R1 on Worker
+2020-12-01 18:52:39,306  ::  ENDING: Task with Task ID: 7_R1 on Worker that ran for 2.000869s
+2020-12-01 18:52:39,306  ::  Communicating the task end to master
+2020-12-01 18:52:39,461  ::  Received request from the Master
+2020-12-01 18:52:39,461  ::  STARTING: Task with Task ID: 14_M0 on Worker
+2020-12-01 18:52:40,303  ::  ENDING: Task with Task ID: 6_R1 on Worker that ran for 4.001807s
+2020-12-01 18:52:40,303  ::  Communicating the task end to master
+2020-12-01 18:52:40,306  ::  ENDING: Task with Task ID: 11_M2 on Worker that ran for 3.000404s
+2020-12-01 18:52:40,306  ::  Communicating the task end to master
+2020-12-01 18:52:40,307  ::  Received request from the Master
+2020-12-01 18:52:40,307  ::  Received request from the Master
+2020-12-01 18:52:40,307  ::  STARTING: Task with Task ID: 11_R0 on Worker
+2020-12-01 18:52:40,307  ::  STARTING: Task with Task ID: 11_R1 on Worker
+2020-12-01 18:52:42,309  ::  ENDING: Task with Task ID: 11_R0 on Worker that ran for 2.002219s
+2020-12-01 18:52:42,309  ::  Communicating the task end to master
+2020-12-01 18:52:42,463  ::  ENDING: Task with Task ID: 14_M0 on Worker that ran for 3.00097s
+2020-12-01 18:52:42,463  ::  Communicating the task end to master
+2020-12-01 18:52:42,464  ::  Received request from the Master
+2020-12-01 18:52:42,464  ::  STARTING: Task with Task ID: 14_R0 on Worker
+2020-12-01 18:52:44,310  ::  ENDING: Task with Task ID: 11_R1 on Worker that ran for 4.002763s
+2020-12-01 18:52:44,310  ::  Communicating the task end to master
+2020-12-01 18:52:44,466  ::  ENDING: Task with Task ID: 14_R0 on Worker that ran for 2.001739s
+2020-12-01 18:52:44,466  ::  Communicating the task end to master
+2020-12-01 18:53:08,626  ::  Starting worker
+2020-12-01 18:53:08,627  ::  Worker Started
+2020-12-01 18:53:12,749  ::  Received request from the Master
+2020-12-01 18:53:12,749  ::  STARTING: Task with Task ID: 0_R0 on Worker
+2020-12-01 18:53:13,635  ::  Received request from the Master
+2020-12-01 18:53:13,636  ::  STARTING: Task with Task ID: 1_M0 on Worker
+2020-12-01 18:53:14,470  ::  Received request from the Master
+2020-12-01 18:53:14,472  ::  STARTING: Task with Task ID: 2_M1 on Worker
+2020-12-01 18:53:14,750  ::  ENDING: Task with Task ID: 0_R0 on Worker that ran for 2.00106s
+2020-12-01 18:53:14,750  ::  Communicating the task end to master
+2020-12-01 18:53:15,178  ::  Received request from the Master
+2020-12-01 18:53:15,179  ::  STARTING: Task with Task ID: 3_M2 on Worker
+2020-12-01 18:53:16,180  ::  ENDING: Task with Task ID: 3_M2 on Worker that ran for 1.00104s
+2020-12-01 18:53:16,180  ::  Communicating the task end to master
+2020-12-01 18:53:16,637  ::  ENDING: Task with Task ID: 1_M0 on Worker that ran for 3.000983s
+2020-12-01 18:53:16,637  ::  Communicating the task end to master
+2020-12-01 18:53:17,474  ::  ENDING: Task with Task ID: 2_M1 on Worker that ran for 3.002042s
+2020-12-01 18:53:17,474  ::  Communicating the task end to master
+2020-12-01 18:53:17,641  ::  Received request from the Master
+2020-12-01 18:53:17,641  ::  STARTING: Task with Task ID: 1_R0 on Worker
+2020-12-01 18:53:17,973  ::  Received request from the Master
+2020-12-01 18:53:17,973  ::  STARTING: Task with Task ID: 6_M1 on Worker
+2020-12-01 18:53:18,107  ::  Received request from the Master
+2020-12-01 18:53:18,107  ::  STARTING: Task with Task ID: 7_M1 on Worker
+2020-12-01 18:53:19,643  ::  ENDING: Task with Task ID: 1_R0 on Worker that ran for 2.001891s
+2020-12-01 18:53:19,643  ::  Communicating the task end to master
+2020-12-01 18:53:20,647  ::  Received request from the Master
+2020-12-01 18:53:20,648  ::  STARTING: Task with Task ID: 4_R1 on Worker
+2020-12-01 18:53:21,976  ::  ENDING: Task with Task ID: 6_M1 on Worker that ran for 4.002186s
+2020-12-01 18:53:21,976  ::  Communicating the task end to master
+2020-12-01 18:53:21,977  ::  Received request from the Master
+2020-12-01 18:53:21,978  ::  STARTING: Task with Task ID: 6_R0 on Worker
+2020-12-01 18:53:22,108  ::  ENDING: Task with Task ID: 7_M1 on Worker that ran for 4.000726s
+2020-12-01 18:53:22,108  ::  Communicating the task end to master
+2020-12-01 18:53:22,110  ::  Received request from the Master
+2020-12-01 18:53:22,110  ::  STARTING: Task with Task ID: 7_R0 on Worker
+2020-12-01 18:53:22,980  ::  ENDING: Task with Task ID: 6_R0 on Worker that ran for 1.001915s
+2020-12-01 18:53:22,980  ::  Communicating the task end to master
+2020-12-01 18:53:23,365  ::  Received request from the Master
+2020-12-01 18:53:23,366  ::  STARTING: Task with Task ID: 11_M3 on Worker
+2020-12-01 18:53:24,368  ::  ENDING: Task with Task ID: 11_M3 on Worker that ran for 1.001373s
+2020-12-01 18:53:24,368  ::  Communicating the task end to master
+2020-12-01 18:53:24,649  ::  ENDING: Task with Task ID: 4_R1 on Worker that ran for 4.001189s
+2020-12-01 18:53:24,649  ::  Communicating the task end to master
+2020-12-01 18:53:26,111  ::  ENDING: Task with Task ID: 7_R0 on Worker that ran for 4.000749s
+2020-12-01 18:53:26,111  ::  Communicating the task end to master
+2020-12-01 18:53:26,654  ::  Received request from the Master
+2020-12-01 18:53:26,654  ::  Received request from the Master
+2020-12-01 18:53:26,654  ::  STARTING: Task with Task ID: 10_R0 on Worker
+2020-12-01 18:53:26,654  ::  STARTING: Task with Task ID: 10_R1 on Worker
+2020-12-01 18:53:27,656  ::  ENDING: Task with Task ID: 10_R0 on Worker that ran for 1.001293s
+2020-12-01 18:53:27,656  ::  Communicating the task end to master
+2020-12-01 18:53:27,656  ::  ENDING: Task with Task ID: 10_R1 on Worker that ran for 1.001534s
+2020-12-01 18:53:27,656  ::  Communicating the task end to master
+2020-12-01 18:53:31,649  ::  Received request from the Master
+2020-12-01 18:53:31,649  ::  STARTING: Task with Task ID: 13_R0 on Worker
+2020-12-01 18:53:35,653  ::  ENDING: Task with Task ID: 13_R0 on Worker that ran for 4.003847s
+2020-12-01 18:53:35,653  ::  Communicating the task end to master
+2020-12-01 18:53:58,903  ::  Starting worker
+2020-12-01 18:53:58,904  ::  Worker Started
+2020-12-01 18:54:02,597  ::  Received request from the Master
+2020-12-01 18:54:02,597  ::  Received request from the Master
+2020-12-01 18:54:02,597  ::  Received request from the Master
+2020-12-01 18:54:02,598  ::  STARTING: Task with Task ID: 5_M1 on Worker
+2020-12-01 18:54:02,598  ::  STARTING: Task with Task ID: 5_M0 on Worker
+2020-12-01 18:54:02,598  ::  STARTING: Task with Task ID: 5_M2 on Worker
+2020-12-01 18:54:03,598  ::  ENDING: Task with Task ID: 5_M1 on Worker that ran for 1.000517s
+2020-12-01 18:54:03,598  ::  Communicating the task end to master
+2020-12-01 18:54:04,600  ::  ENDING: Task with Task ID: 5_M0 on Worker that ran for 2.002002s
+2020-12-01 18:54:04,600  ::  Communicating the task end to master
+2020-12-01 18:54:05,599  ::  ENDING: Task with Task ID: 5_M2 on Worker that ran for 3.00151s
+2020-12-01 18:54:05,600  ::  Communicating the task end to master
+2020-12-01 18:54:05,747  ::  Received request from the Master
+2020-12-01 18:54:05,748  ::  Received request from the Master
+2020-12-01 18:54:05,748  ::  STARTING: Task with Task ID: 8_M2 on Worker
+2020-12-01 18:54:05,749  ::  STARTING: Task with Task ID: 8_M1 on Worker
+2020-12-01 18:54:06,322  ::  Received request from the Master
+2020-12-01 18:54:06,322  ::  STARTING: Task with Task ID: 4_R0 on Worker
+2020-12-01 18:54:06,750  ::  ENDING: Task with Task ID: 8_M2 on Worker that ran for 1.001306s
+2020-12-01 18:54:06,750  ::  Communicating the task end to master
+2020-12-01 18:54:08,151  ::  Received request from the Master
+2020-12-01 18:54:08,152  ::  STARTING: Task with Task ID: 10_M0 on Worker
+2020-12-01 18:54:09,750  ::  ENDING: Task with Task ID: 8_M1 on Worker that ran for 4.000851s
+2020-12-01 18:54:09,750  ::  Communicating the task end to master
+2020-12-01 18:54:10,155  ::  Received request from the Master
+2020-12-01 18:54:10,156  ::  STARTING: Task with Task ID: 8_R0 on Worker
+2020-12-01 18:54:10,323  ::  ENDING: Task with Task ID: 4_R0 on Worker that ran for 4.001082s
+2020-12-01 18:54:10,323  ::  Communicating the task end to master
+2020-12-01 18:54:11,155  ::  Received request from the Master
+2020-12-01 18:54:11,156  ::  STARTING: Task with Task ID: 12_M1 on Worker
+2020-12-01 18:54:12,153  ::  ENDING: Task with Task ID: 10_M0 on Worker that ran for 4.001216s
+2020-12-01 18:54:12,153  ::  Communicating the task end to master
+2020-12-01 18:54:12,158  ::  ENDING: Task with Task ID: 12_M1 on Worker that ran for 1.001076s
+2020-12-01 18:54:12,158  ::  Communicating the task end to master
+2020-12-01 18:54:12,408  ::  Received request from the Master
+2020-12-01 18:54:12,408  ::  STARTING: Task with Task ID: 14_M0 on Worker
+2020-12-01 18:54:13,157  ::  ENDING: Task with Task ID: 8_R0 on Worker that ran for 3.001003s
+2020-12-01 18:54:13,157  ::  Communicating the task end to master
+2020-12-01 18:54:13,158  ::  Received request from the Master
+2020-12-01 18:54:13,159  ::  STARTING: Task with Task ID: 10_R0 on Worker
+2020-12-01 18:54:13,365  ::  Received request from the Master
+2020-12-01 18:54:13,365  ::  STARTING: Task with Task ID: 15_M2 on Worker
+2020-12-01 18:54:14,160  ::  ENDING: Task with Task ID: 10_R0 on Worker that ran for 1.001318s
+2020-12-01 18:54:14,160  ::  Communicating the task end to master
+2020-12-01 18:54:15,366  ::  ENDING: Task with Task ID: 15_M2 on Worker that ran for 2.001025s
+2020-12-01 18:54:15,367  ::  Communicating the task end to master
+2020-12-01 18:54:15,409  ::  ENDING: Task with Task ID: 14_M0 on Worker that ran for 3.001132s
+2020-12-01 18:54:15,409  ::  Communicating the task end to master
+2020-12-01 18:54:16,390  ::  Received request from the Master
+2020-12-01 18:54:16,390  ::  Received request from the Master
+2020-12-01 18:54:16,391  ::  STARTING: Task with Task ID: 17_M3 on Worker
+2020-12-01 18:54:16,391  ::  STARTING: Task with Task ID: 17_M2 on Worker
+2020-12-01 18:54:16,412  ::  Received request from the Master
+2020-12-01 18:54:16,412  ::  STARTING: Task with Task ID: 13_R1 on Worker
+2020-12-01 18:54:17,413  ::  ENDING: Task with Task ID: 13_R1 on Worker that ran for 1.00044s
+2020-12-01 18:54:17,413  ::  Communicating the task end to master
+2020-12-01 18:54:18,393  ::  ENDING: Task with Task ID: 17_M3 on Worker that ran for 2.002008s
+2020-12-01 18:54:18,393  ::  Communicating the task end to master
+2020-12-01 18:54:19,393  ::  ENDING: Task with Task ID: 17_M2 on Worker that ran for 3.001876s
+2020-12-01 18:54:19,393  ::  Communicating the task end to master
+2020-12-01 18:54:59,916  ::  Starting worker
+2020-12-01 18:54:59,917  ::  Worker Started
+2020-12-01 18:55:01,982  ::  Received request from the Master
+2020-12-01 18:55:01,982  ::  STARTING: Task with Task ID: 1_M1 on Worker
+2020-12-01 18:55:03,209  ::  Received request from the Master
+2020-12-01 18:55:03,210  ::  STARTING: Task with Task ID: 2_M0 on Worker
+2020-12-01 18:55:03,487  ::  Received request from the Master
+2020-12-01 18:55:03,488  ::  STARTING: Task with Task ID: 3_M2 on Worker
+2020-12-01 18:55:04,489  ::  ENDING: Task with Task ID: 3_M2 on Worker that ran for 1.001222s
+2020-12-01 18:55:04,490  ::  Communicating the task end to master
+2020-12-01 18:55:04,984  ::  ENDING: Task with Task ID: 1_M1 on Worker that ran for 3.001584s
+2020-12-01 18:55:04,984  ::  Communicating the task end to master
+2020-12-01 18:55:04,985  ::  Received request from the Master
+2020-12-01 18:55:04,985  ::  Received request from the Master
+2020-12-01 18:55:04,985  ::  STARTING: Task with Task ID: 1_R0 on Worker
+2020-12-01 18:55:04,985  ::  STARTING: Task with Task ID: 1_R1 on Worker
+2020-12-01 18:55:06,986  ::  ENDING: Task with Task ID: 1_R0 on Worker that ran for 2.001241s
+2020-12-01 18:55:06,986  ::  Communicating the task end to master
+2020-12-01 18:55:06,987  ::  ENDING: Task with Task ID: 1_R1 on Worker that ran for 2.001429s
+2020-12-01 18:55:06,987  ::  Communicating the task end to master
+2020-12-01 18:55:07,094  ::  Received request from the Master
+2020-12-01 18:55:07,094  ::  STARTING: Task with Task ID: 6_M0 on Worker
+2020-12-01 18:55:07,211  ::  ENDING: Task with Task ID: 2_M0 on Worker that ran for 4.001064s
+2020-12-01 18:55:07,211  ::  Communicating the task end to master
+2020-12-01 18:55:07,490  ::  Received request from the Master
+2020-12-01 18:55:07,491  ::  STARTING: Task with Task ID: 3_R0 on Worker
+2020-12-01 18:55:07,573  ::  Received request from the Master
+2020-12-01 18:55:07,573  ::  STARTING: Task with Task ID: 7_M1 on Worker
+2020-12-01 18:55:08,493  ::  ENDING: Task with Task ID: 3_R0 on Worker that ran for 1.001996s
+2020-12-01 18:55:08,493  ::  Communicating the task end to master
+2020-12-01 18:55:08,593  ::  Received request from the Master
+2020-12-01 18:55:08,595  ::  STARTING: Task with Task ID: 9_M0 on Worker
+2020-12-01 18:55:10,096  ::  ENDING: Task with Task ID: 6_M0 on Worker that ran for 3.001511s
+2020-12-01 18:55:10,096  ::  Communicating the task end to master
+2020-12-01 18:55:10,596  ::  ENDING: Task with Task ID: 9_M0 on Worker that ran for 2.001378s
+2020-12-01 18:55:10,596  ::  Communicating the task end to master
+2020-12-01 18:55:11,098  ::  Received request from the Master
+2020-12-01 18:55:11,098  ::  STARTING: Task with Task ID: 6_R0 on Worker
+2020-12-01 18:55:11,576  ::  ENDING: Task with Task ID: 7_M1 on Worker that ran for 4.002123s
+2020-12-01 18:55:11,576  ::  Communicating the task end to master
+2020-12-01 18:55:11,577  ::  Received request from the Master
+2020-12-01 18:55:11,578  ::  Received request from the Master
+2020-12-01 18:55:11,578  ::  STARTING: Task with Task ID: 7_R1 on Worker
+2020-12-01 18:55:11,578  ::  STARTING: Task with Task ID: 7_R0 on Worker
+2020-12-01 18:55:12,099  ::  ENDING: Task with Task ID: 6_R0 on Worker that ran for 1.001372s
+2020-12-01 18:55:12,100  ::  Communicating the task end to master
+2020-12-01 18:55:12,506  ::  Received request from the Master
+2020-12-01 18:55:12,508  ::  STARTING: Task with Task ID: 11_M0 on Worker
+2020-12-01 18:55:13,509  ::  ENDING: Task with Task ID: 11_M0 on Worker that ran for 1.001289s
+2020-12-01 18:55:13,509  ::  Communicating the task end to master
+2020-12-01 18:55:13,526  ::  Received request from the Master
+2020-12-01 18:55:13,527  ::  STARTING: Task with Task ID: 12_M2 on Worker
+2020-12-01 18:55:13,580  ::  ENDING: Task with Task ID: 7_R1 on Worker that ran for 2.002082s
+2020-12-01 18:55:13,580  ::  Communicating the task end to master
+2020-12-01 18:55:14,272  ::  Received request from the Master
+2020-12-01 18:55:14,273  ::  STARTING: Task with Task ID: 13_M1 on Worker
+2020-12-01 18:55:15,580  ::  ENDING: Task with Task ID: 7_R0 on Worker that ran for 4.001613s
+2020-12-01 18:55:15,580  ::  Communicating the task end to master
+2020-12-01 18:55:16,511  ::  Received request from the Master
+2020-12-01 18:55:16,512  ::  STARTING: Task with Task ID: 10_R0 on Worker
+2020-12-01 18:55:16,528  ::  ENDING: Task with Task ID: 12_M2 on Worker that ran for 3.000779s
+2020-12-01 18:55:16,528  ::  Communicating the task end to master
+2020-12-01 18:55:16,529  ::  Received request from the Master
+2020-12-01 18:55:16,529  ::  STARTING: Task with Task ID: 12_R0 on Worker
+2020-12-01 18:55:17,274  ::  ENDING: Task with Task ID: 13_M1 on Worker that ran for 3.001161s
+2020-12-01 18:55:17,274  ::  Communicating the task end to master
+2020-12-01 18:55:17,334  ::  Received request from the Master
+2020-12-01 18:55:17,335  ::  STARTING: Task with Task ID: 16_M2 on Worker
+2020-12-01 18:55:17,514  ::  ENDING: Task with Task ID: 10_R0 on Worker that ran for 1.001609s
+2020-12-01 18:55:17,514  ::  Communicating the task end to master
+2020-12-01 18:55:17,848  ::  Received request from the Master
+2020-12-01 18:55:17,849  ::  STARTING: Task with Task ID: 17_M1 on Worker
+2020-12-01 18:55:18,336  ::  ENDING: Task with Task ID: 16_M2 on Worker that ran for 1.000646s
+2020-12-01 18:55:18,336  ::  Communicating the task end to master
+2020-12-01 18:55:18,851  ::  ENDING: Task with Task ID: 17_M1 on Worker that ran for 1.001644s
+2020-12-01 18:55:18,851  ::  Communicating the task end to master
+2020-12-01 18:55:18,961  ::  Received request from the Master
+2020-12-01 18:55:18,961  ::  Received request from the Master
+2020-12-01 18:55:18,963  ::  STARTING: Task with Task ID: 18_M0 on Worker
+2020-12-01 18:55:18,963  ::  STARTING: Task with Task ID: 13_R1 on Worker
+2020-12-01 18:55:19,965  ::  ENDING: Task with Task ID: 13_R1 on Worker that ran for 1.001418s
+2020-12-01 18:55:19,965  ::  Communicating the task end to master
+2020-12-01 18:55:20,191  ::  Received request from the Master
+2020-12-01 18:55:20,192  ::  STARTING: Task with Task ID: 19_M0 on Worker
+2020-12-01 18:55:20,530  ::  ENDING: Task with Task ID: 12_R0 on Worker that ran for 4.001283s
+2020-12-01 18:55:20,531  ::  Communicating the task end to master
+2020-12-01 18:55:22,966  ::  ENDING: Task with Task ID: 18_M0 on Worker that ran for 4.003249s
+2020-12-01 18:55:22,966  ::  Communicating the task end to master
+2020-12-01 18:55:24,194  ::  ENDING: Task with Task ID: 19_M0 on Worker that ran for 4.002285s
+2020-12-01 18:55:24,194  ::  Communicating the task end to master
+2020-12-01 18:55:24,196  ::  Received request from the Master
+2020-12-01 18:55:24,196  ::  STARTING: Task with Task ID: 19_R0 on Worker
+2020-12-01 18:55:27,199  ::  ENDING: Task with Task ID: 19_R0 on Worker that ran for 3.00333s
+2020-12-01 18:55:27,200  ::  Communicating the task end to master
+2020-12-01 18:55:59,368  ::  Starting worker
+2020-12-01 18:55:59,369  ::  Worker Started
+2020-12-01 18:56:00,154  ::  Received request from the Master
+2020-12-01 18:56:00,154  ::  STARTING: Task with Task ID: 1_M1 on Worker
+2020-12-01 18:56:00,411  ::  Received request from the Master
+2020-12-01 18:56:00,412  ::  Received request from the Master
+2020-12-01 18:56:00,412  ::  STARTING: Task with Task ID: 2_M1 on Worker
+2020-12-01 18:56:00,412  ::  STARTING: Task with Task ID: 2_M0 on Worker
+2020-12-01 18:56:03,156  ::  ENDING: Task with Task ID: 1_M1 on Worker that ran for 3.001945s
+2020-12-01 18:56:03,157  ::  Communicating the task end to master
+2020-12-01 18:56:03,158  ::  Received request from the Master
+2020-12-01 18:56:03,159  ::  STARTING: Task with Task ID: 1_R0 on Worker
+2020-12-01 18:56:03,413  ::  ENDING: Task with Task ID: 2_M1 on Worker that ran for 3.001245s
+2020-12-01 18:56:03,413  ::  Communicating the task end to master
+2020-12-01 18:56:04,264  ::  Received request from the Master
+2020-12-01 18:56:04,264  ::  STARTING: Task with Task ID: 5_M3 on Worker
+2020-12-01 18:56:04,413  ::  ENDING: Task with Task ID: 2_M0 on Worker that ran for 4.000638s
+2020-12-01 18:56:04,413  ::  Communicating the task end to master
+2020-12-01 18:56:04,415  ::  Received request from the Master
+2020-12-01 18:56:04,415  ::  STARTING: Task with Task ID: 2_R0 on Worker
+2020-12-01 18:56:05,160  ::  ENDING: Task with Task ID: 1_R0 on Worker that ran for 2.00119s
+2020-12-01 18:56:05,160  ::  Communicating the task end to master
+2020-12-01 18:56:05,255  ::  Received request from the Master
+2020-12-01 18:56:05,256  ::  STARTING: Task with Task ID: 6_M1 on Worker
+2020-12-01 18:56:08,267  ::  ENDING: Task with Task ID: 5_M3 on Worker that ran for 4.002149s
+2020-12-01 18:56:08,267  ::  Communicating the task end to master
+2020-12-01 18:56:08,416  ::  ENDING: Task with Task ID: 2_R0 on Worker that ran for 4.000601s
+2020-12-01 18:56:08,416  ::  Communicating the task end to master
+2020-12-01 18:56:08,858  ::  Received request from the Master
+2020-12-01 18:56:08,858  ::  Received request from the Master
+2020-12-01 18:56:08,859  ::  STARTING: Task with Task ID: 10_M2 on Worker
+2020-12-01 18:56:08,859  ::  STARTING: Task with Task ID: 10_M0 on Worker
+2020-12-01 18:56:09,257  ::  ENDING: Task with Task ID: 6_M1 on Worker that ran for 4.000792s
+2020-12-01 18:56:09,257  ::  Communicating the task end to master
+2020-12-01 18:56:09,258  ::  Received request from the Master
+2020-12-01 18:56:09,258  ::  STARTING: Task with Task ID: 6_R0 on Worker
+2020-12-01 18:56:10,260  ::  ENDING: Task with Task ID: 6_R0 on Worker that ran for 1.001026s
+2020-12-01 18:56:10,260  ::  Communicating the task end to master
+2020-12-01 18:56:10,679  ::  Received request from the Master
+2020-12-01 18:56:10,680  ::  STARTING: Task with Task ID: 7_R1 on Worker
+2020-12-01 18:56:11,860  ::  ENDING: Task with Task ID: 10_M2 on Worker that ran for 3.000779s
+2020-12-01 18:56:11,860  ::  Communicating the task end to master
+2020-12-01 18:56:12,681  ::  ENDING: Task with Task ID: 7_R1 on Worker that ran for 2.001426s
+2020-12-01 18:56:12,681  ::  Communicating the task end to master
+2020-12-01 18:56:12,682  ::  Received request from the Master
+2020-12-01 18:56:12,682  ::  STARTING: Task with Task ID: 13_M2 on Worker
+2020-12-01 18:56:12,860  ::  ENDING: Task with Task ID: 10_M0 on Worker that ran for 4.000831s
+2020-12-01 18:56:12,860  ::  Communicating the task end to master
+2020-12-01 18:56:13,683  ::  Received request from the Master
+2020-12-01 18:56:13,684  ::  Received request from the Master
+2020-12-01 18:56:13,685  ::  STARTING: Task with Task ID: 15_M1 on Worker
+2020-12-01 18:56:13,685  ::  STARTING: Task with Task ID: 10_R0 on Worker
+2020-12-01 18:56:14,686  ::  ENDING: Task with Task ID: 15_M1 on Worker that ran for 1.000907s
+2020-12-01 18:56:14,686  ::  Communicating the task end to master
+2020-12-01 18:56:14,686  ::  ENDING: Task with Task ID: 10_R0 on Worker that ran for 1.001081s
+2020-12-01 18:56:14,687  ::  Communicating the task end to master
+2020-12-01 18:56:15,686  ::  Received request from the Master
+2020-12-01 18:56:15,687  ::  Received request from the Master
+2020-12-01 18:56:15,689  ::  STARTING: Task with Task ID: 11_R1 on Worker
+2020-12-01 18:56:15,689  ::  STARTING: Task with Task ID: 12_R0 on Worker
+2020-12-01 18:56:16,683  ::  ENDING: Task with Task ID: 13_M2 on Worker that ran for 4.000718s
+2020-12-01 18:56:16,683  ::  Communicating the task end to master
+2020-12-01 18:56:18,421  ::  Received request from the Master
+2020-12-01 18:56:18,421  ::  STARTING: Task with Task ID: 13_R0 on Worker
+2020-12-01 18:56:19,691  ::  ENDING: Task with Task ID: 11_R1 on Worker that ran for 4.002001s
+2020-12-01 18:56:19,691  ::  Communicating the task end to master
+2020-12-01 18:56:19,691  ::  ENDING: Task with Task ID: 12_R0 on Worker that ran for 4.002282s
+2020-12-01 18:56:19,691  ::  Communicating the task end to master
+2020-12-01 18:56:19,694  ::  Received request from the Master
+2020-12-01 18:56:19,694  ::  STARTING: Task with Task ID: 16_R0 on Worker
+2020-12-01 18:56:22,423  ::  ENDING: Task with Task ID: 13_R0 on Worker that ran for 4.00135s
+2020-12-01 18:56:22,423  ::  Communicating the task end to master
+2020-12-01 18:56:22,424  ::  Received request from the Master
+2020-12-01 18:56:22,424  ::  STARTING: Task with Task ID: 19_R0 on Worker
+2020-12-01 18:56:22,695  ::  ENDING: Task with Task ID: 16_R0 on Worker that ran for 3.000628s
+2020-12-01 18:56:22,695  ::  Communicating the task end to master
+2020-12-01 18:56:25,428  ::  ENDING: Task with Task ID: 19_R0 on Worker that ran for 3.003263s
+2020-12-01 18:56:25,428  ::  Communicating the task end to master
+2020-12-01 18:56:57,753  ::  Starting worker
+2020-12-01 18:56:57,758  ::  Worker Started
+2020-12-01 18:57:02,155  ::  Received request from the Master
+2020-12-01 18:57:02,155  ::  Received request from the Master
+2020-12-01 18:57:02,155  ::  STARTING: Task with Task ID: 1_R0 on Worker
+2020-12-01 18:57:02,155  ::  STARTING: Task with Task ID: 1_R1 on Worker
+2020-12-01 18:57:02,691  ::  Received request from the Master
+2020-12-01 18:57:02,692  ::  STARTING: Task with Task ID: 4_M1 on Worker
+2020-12-01 18:57:03,693  ::  ENDING: Task with Task ID: 4_M1 on Worker that ran for 1.000255s
+2020-12-01 18:57:03,693  ::  Communicating the task end to master
+2020-12-01 18:57:04,157  ::  ENDING: Task with Task ID: 1_R0 on Worker that ran for 2.001752s
+2020-12-01 18:57:04,157  ::  Communicating the task end to master
+2020-12-01 18:57:04,158  ::  ENDING: Task with Task ID: 1_R1 on Worker that ran for 2.002686s
+2020-12-01 18:57:04,158  ::  Communicating the task end to master
+2020-12-01 18:57:07,128  ::  Received request from the Master
+2020-12-01 18:57:07,128  ::  STARTING: Task with Task ID: 7_M1 on Worker
+2020-12-01 18:57:07,526  ::  Received request from the Master
+2020-12-01 18:57:07,527  ::  Received request from the Master
+2020-12-01 18:57:07,527  ::  STARTING: Task with Task ID: 8_M0 on Worker
+2020-12-01 18:57:07,527  ::  STARTING: Task with Task ID: 8_M2 on Worker
+2020-12-01 18:57:08,529  ::  ENDING: Task with Task ID: 8_M0 on Worker that ran for 1.001283s
+2020-12-01 18:57:08,529  ::  Communicating the task end to master
+2020-12-01 18:57:08,529  ::  ENDING: Task with Task ID: 8_M2 on Worker that ran for 1.001459s
+2020-12-01 18:57:08,529  ::  Communicating the task end to master
+2020-12-01 18:57:10,583  ::  Received request from the Master
+2020-12-01 18:57:10,583  ::  Received request from the Master
+2020-12-01 18:57:10,584  ::  STARTING: Task with Task ID: 10_M0 on Worker
+2020-12-01 18:57:10,584  ::  STARTING: Task with Task ID: 10_M3 on Worker
+2020-12-01 18:57:11,130  ::  ENDING: Task with Task ID: 7_M1 on Worker that ran for 4.001368s
+2020-12-01 18:57:11,130  ::  Communicating the task end to master
+2020-12-01 18:57:11,131  ::  Received request from the Master
+2020-12-01 18:57:11,132  ::  STARTING: Task with Task ID: 7_R1 on Worker
+2020-12-01 18:57:13,134  ::  ENDING: Task with Task ID: 7_R1 on Worker that ran for 2.002328s
+2020-12-01 18:57:13,134  ::  Communicating the task end to master
+2020-12-01 18:57:14,586  ::  ENDING: Task with Task ID: 10_M0 on Worker that ran for 4.002377s
+2020-12-01 18:57:14,587  ::  Communicating the task end to master
+2020-12-01 18:57:14,587  ::  ENDING: Task with Task ID: 10_M3 on Worker that ran for 4.003007s
+2020-12-01 18:57:14,587  ::  Communicating the task end to master
+2020-12-01 18:57:17,062  ::  Received request from the Master
+2020-12-01 18:57:17,062  ::  STARTING: Task with Task ID: 13_M2 on Worker
+2020-12-01 18:57:18,736  ::  Received request from the Master
+2020-12-01 18:57:18,736  ::  Received request from the Master
+2020-12-01 18:57:18,736  ::  STARTING: Task with Task ID: 14_M1 on Worker
+2020-12-01 18:57:18,736  ::  STARTING: Task with Task ID: 14_M0 on Worker
+2020-12-01 18:57:20,736  ::  ENDING: Task with Task ID: 14_M1 on Worker that ran for 2.000377s
+2020-12-01 18:57:20,737  ::  Communicating the task end to master
+2020-12-01 18:57:21,064  ::  ENDING: Task with Task ID: 13_M2 on Worker that ran for 4.001283s
+2020-12-01 18:57:21,064  ::  Communicating the task end to master
+2020-12-01 18:57:21,738  ::  ENDING: Task with Task ID: 14_M0 on Worker that ran for 3.002048s
+2020-12-01 18:57:21,738  ::  Communicating the task end to master
+2020-12-01 18:57:22,630  ::  Received request from the Master
+2020-12-01 18:57:22,630  ::  STARTING: Task with Task ID: 17_M2 on Worker
+2020-12-01 18:57:22,784  ::  Received request from the Master
+2020-12-01 18:57:22,784  ::  Received request from the Master
+2020-12-01 18:57:22,785  ::  STARTING: Task with Task ID: 18_M1 on Worker
+2020-12-01 18:57:22,785  ::  STARTING: Task with Task ID: 18_M0 on Worker
+2020-12-01 18:57:23,787  ::  ENDING: Task with Task ID: 18_M1 on Worker that ran for 1.001903s
+2020-12-01 18:57:23,787  ::  Communicating the task end to master
+2020-12-01 18:57:24,870  ::  Received request from the Master
+2020-12-01 18:57:24,872  ::  STARTING: Task with Task ID: 19_M1 on Worker
+2020-12-01 18:57:25,632  ::  ENDING: Task with Task ID: 17_M2 on Worker that ran for 3.001797s
+2020-12-01 18:57:25,632  ::  Communicating the task end to master
+2020-12-01 18:57:25,873  ::  ENDING: Task with Task ID: 19_M1 on Worker that ran for 1.00102s
+2020-12-01 18:57:25,873  ::  Communicating the task end to master
+2020-12-01 18:57:26,786  ::  ENDING: Task with Task ID: 18_M0 on Worker that ran for 4.001603s
+2020-12-01 18:57:26,787  ::  Communicating the task end to master
+2020-12-01 18:57:30,531  ::  Received request from the Master
+2020-12-01 18:57:30,531  ::  Received request from the Master
+2020-12-01 18:57:30,532  ::  STARTING: Task with Task ID: 22_M0 on Worker
+2020-12-01 18:57:30,532  ::  STARTING: Task with Task ID: 22_M1 on Worker
+2020-12-01 18:57:31,399  ::  Received request from the Master
+2020-12-01 18:57:31,399  ::  STARTING: Task with Task ID: 20_R0 on Worker
+2020-12-01 18:57:32,400  ::  ENDING: Task with Task ID: 20_R0 on Worker that ran for 1.000815s
+2020-12-01 18:57:32,400  ::  Communicating the task end to master
+2020-12-01 18:57:33,533  ::  ENDING: Task with Task ID: 22_M0 on Worker that ran for 3.001265s
+2020-12-01 18:57:33,533  ::  Communicating the task end to master
+2020-12-01 18:57:34,534  ::  ENDING: Task with Task ID: 22_M1 on Worker that ran for 4.001802s
+2020-12-01 18:57:34,534  ::  Communicating the task end to master
+2020-12-01 18:58:23,847  ::  Starting worker
+2020-12-01 18:58:23,848  ::  Worker Started
+2020-12-01 18:58:27,499  ::  Received request from the Master
+2020-12-01 18:58:27,499  ::  STARTING: Task with Task ID: 1_M1 on Worker
+2020-12-01 18:58:28,537  ::  Received request from the Master
+2020-12-01 18:58:28,539  ::  STARTING: Task with Task ID: 2_M3 on Worker
+2020-12-01 18:58:30,261  ::  Received request from the Master
+2020-12-01 18:58:30,261  ::  STARTING: Task with Task ID: 3_M0 on Worker
+2020-12-01 18:58:30,501  ::  ENDING: Task with Task ID: 1_M1 on Worker that ran for 3.00144s
+2020-12-01 18:58:30,501  ::  Communicating the task end to master
+2020-12-01 18:58:30,507  ::  Received request from the Master
+2020-12-01 18:58:30,508  ::  STARTING: Task with Task ID: 1_R1 on Worker
+2020-12-01 18:58:31,541  ::  ENDING: Task with Task ID: 2_M3 on Worker that ran for 3.001604s
+2020-12-01 18:58:31,541  ::  Communicating the task end to master
+2020-12-01 18:58:32,510  ::  ENDING: Task with Task ID: 1_R1 on Worker that ran for 2.001937s
+2020-12-01 18:58:32,510  ::  Communicating the task end to master
+2020-12-01 18:58:34,263  ::  ENDING: Task with Task ID: 3_M0 on Worker that ran for 4.001564s
+2020-12-01 18:58:34,264  ::  Communicating the task end to master
+2020-12-01 18:58:34,803  ::  Received request from the Master
+2020-12-01 18:58:34,804  ::  Received request from the Master
+2020-12-01 18:58:34,805  ::  STARTING: Task with Task ID: 4_M1 on Worker
+2020-12-01 18:58:34,805  ::  STARTING: Task with Task ID: 4_M3 on Worker
+2020-12-01 18:58:35,739  ::  Received request from the Master
+2020-12-01 18:58:35,740  ::  STARTING: Task with Task ID: 5_M3 on Worker
+2020-12-01 18:58:35,806  ::  ENDING: Task with Task ID: 4_M1 on Worker that ran for 1.001179s
+2020-12-01 18:58:35,806  ::  Communicating the task end to master
+2020-12-01 18:58:35,952  ::  Received request from the Master
+2020-12-01 18:58:35,953  ::  STARTING: Task with Task ID: 6_M0 on Worker
+2020-12-01 18:58:38,806  ::  ENDING: Task with Task ID: 4_M3 on Worker that ran for 4.000989s
+2020-12-01 18:58:38,806  ::  Communicating the task end to master
+2020-12-01 18:58:38,808  ::  Received request from the Master
+2020-12-01 18:58:38,808  ::  STARTING: Task with Task ID: 4_R0 on Worker
+2020-12-01 18:58:38,954  ::  ENDING: Task with Task ID: 6_M0 on Worker that ran for 3.000764s
+2020-12-01 18:58:38,954  ::  Communicating the task end to master
+2020-12-01 18:58:39,575  ::  Received request from the Master
+2020-12-01 18:58:39,577  ::  STARTING: Task with Task ID: 10_M1 on Worker
+2020-12-01 18:58:39,741  ::  ENDING: Task with Task ID: 5_M3 on Worker that ran for 4.000923s
+2020-12-01 18:58:39,741  ::  Communicating the task end to master
+2020-12-01 18:58:39,742  ::  Received request from the Master
+2020-12-01 18:58:39,743  ::  STARTING: Task with Task ID: 5_R0 on Worker
+2020-12-01 18:58:40,579  ::  ENDING: Task with Task ID: 10_M1 on Worker that ran for 1.001837s
+2020-12-01 18:58:40,579  ::  Communicating the task end to master
+2020-12-01 18:58:40,744  ::  ENDING: Task with Task ID: 5_R0 on Worker that ran for 1.001524s
+2020-12-01 18:58:40,744  ::  Communicating the task end to master
+2020-12-01 18:58:40,958  ::  Received request from the Master
+2020-12-01 18:58:40,958  ::  Received request from the Master
+2020-12-01 18:58:40,959  ::  STARTING: Task with Task ID: 6_R1 on Worker
+2020-12-01 18:58:40,959  ::  STARTING: Task with Task ID: 11_M0 on Worker
+2020-12-01 18:58:41,960  ::  ENDING: Task with Task ID: 11_M0 on Worker that ran for 1.000279s
+2020-12-01 18:58:41,960  ::  Communicating the task end to master
+2020-12-01 18:58:42,809  ::  ENDING: Task with Task ID: 4_R0 on Worker that ran for 4.001354s
+2020-12-01 18:58:42,809  ::  Communicating the task end to master
+2020-12-01 18:58:42,942  ::  Received request from the Master
+2020-12-01 18:58:42,942  ::  Received request from the Master
+2020-12-01 18:58:42,944  ::  STARTING: Task with Task ID: 12_M0 on Worker
+2020-12-01 18:58:42,944  ::  STARTING: Task with Task ID: 8_R0 on Worker
+2020-12-01 18:58:44,946  ::  ENDING: Task with Task ID: 12_M0 on Worker that ran for 2.001964s
+2020-12-01 18:58:44,946  ::  Communicating the task end to master
+2020-12-01 18:58:44,961  ::  ENDING: Task with Task ID: 6_R1 on Worker that ran for 4.001232s
+2020-12-01 18:58:44,961  ::  Communicating the task end to master
+2020-12-01 18:58:45,946  ::  ENDING: Task with Task ID: 8_R0 on Worker that ran for 3.001772s
+2020-12-01 18:58:45,946  ::  Communicating the task end to master
+2020-12-01 18:58:45,947  ::  Received request from the Master
+2020-12-01 18:58:45,948  ::  Received request from the Master
+2020-12-01 18:58:45,950  ::  STARTING: Task with Task ID: 10_R0 on Worker
+2020-12-01 18:58:45,950  ::  STARTING: Task with Task ID: 10_R1 on Worker
+2020-12-01 18:58:46,948  ::  Received request from the Master
+2020-12-01 18:58:46,950  ::  STARTING: Task with Task ID: 17_M3 on Worker
+2020-12-01 18:58:46,951  ::  ENDING: Task with Task ID: 10_R0 on Worker that ran for 1.000412s
+2020-12-01 18:58:46,951  ::  Communicating the task end to master
+2020-12-01 18:58:46,951  ::  ENDING: Task with Task ID: 10_R1 on Worker that ran for 1.000673s
+2020-12-01 18:58:46,951  ::  Communicating the task end to master
+2020-12-01 18:58:47,949  ::  Received request from the Master
+2020-12-01 18:58:47,950  ::  Received request from the Master
+2020-12-01 18:58:47,951  ::  STARTING: Task with Task ID: 18_M0 on Worker
+2020-12-01 18:58:47,951  ::  STARTING: Task with Task ID: 15_R1 on Worker
+2020-12-01 18:58:48,952  ::  ENDING: Task with Task ID: 17_M3 on Worker that ran for 2.001689s
+2020-12-01 18:58:48,952  ::  Communicating the task end to master
+2020-12-01 18:58:48,953  ::  ENDING: Task with Task ID: 15_R1 on Worker that ran for 1.001207s
+2020-12-01 18:58:48,953  ::  Communicating the task end to master
+2020-12-01 18:58:49,316  ::  Received request from the Master
+2020-12-01 18:58:49,317  ::  Received request from the Master
+2020-12-01 18:58:49,317  ::  STARTING: Task with Task ID: 19_M0 on Worker
+2020-12-01 18:58:49,317  ::  STARTING: Task with Task ID: 13_R1 on Worker
+2020-12-01 18:58:50,319  ::  ENDING: Task with Task ID: 13_R1 on Worker that ran for 1.00112s
+2020-12-01 18:58:50,319  ::  Communicating the task end to master
+2020-12-01 18:58:51,953  ::  ENDING: Task with Task ID: 18_M0 on Worker that ran for 4.001711s
+2020-12-01 18:58:51,953  ::  Communicating the task end to master
+2020-12-01 18:58:51,958  ::  Received request from the Master
+2020-12-01 18:58:51,959  ::  STARTING: Task with Task ID: 18_R0 on Worker
+2020-12-01 18:58:52,390  ::  Received request from the Master
+2020-12-01 18:58:52,391  ::  STARTING: Task with Task ID: 21_M0 on Worker
+2020-12-01 18:58:52,961  ::  ENDING: Task with Task ID: 18_R0 on Worker that ran for 1.002215s
+2020-12-01 18:58:52,961  ::  Communicating the task end to master
+2020-12-01 18:58:53,318  ::  ENDING: Task with Task ID: 19_M0 on Worker that ran for 4.000945s
+2020-12-01 18:58:53,318  ::  Communicating the task end to master
+2020-12-01 18:58:53,320  ::  Received request from the Master
+2020-12-01 18:58:53,320  ::  Received request from the Master
+2020-12-01 18:58:53,321  ::  STARTING: Task with Task ID: 19_R1 on Worker
+2020-12-01 18:58:53,321  ::  STARTING: Task with Task ID: 19_R0 on Worker
+2020-12-01 18:58:55,323  ::  ENDING: Task with Task ID: 19_R1 on Worker that ran for 2.001644s
+2020-12-01 18:58:55,323  ::  Communicating the task end to master
+2020-12-01 18:58:55,867  ::  Received request from the Master
+2020-12-01 18:58:55,868  ::  STARTING: Task with Task ID: 24_M0 on Worker
+2020-12-01 18:58:56,323  ::  ENDING: Task with Task ID: 19_R0 on Worker that ran for 3.002094s
+2020-12-01 18:58:56,324  ::  Communicating the task end to master
+2020-12-01 18:58:56,392  ::  ENDING: Task with Task ID: 21_M0 on Worker that ran for 4.000937s
+2020-12-01 18:58:56,392  ::  Communicating the task end to master
+2020-12-01 18:58:56,394  ::  Received request from the Master
+2020-12-01 18:58:56,395  ::  Received request from the Master
+2020-12-01 18:58:56,395  ::  STARTING: Task with Task ID: 21_R0 on Worker
+2020-12-01 18:58:56,395  ::  STARTING: Task with Task ID: 21_R1 on Worker
+2020-12-01 18:58:58,396  ::  ENDING: Task with Task ID: 21_R0 on Worker that ran for 2.001372s
+2020-12-01 18:58:58,396  ::  Communicating the task end to master
+2020-12-01 18:58:58,870  ::  ENDING: Task with Task ID: 24_M0 on Worker that ran for 3.001875s
+2020-12-01 18:58:58,870  ::  Communicating the task end to master
+2020-12-01 18:59:00,398  ::  ENDING: Task with Task ID: 21_R1 on Worker that ran for 4.003447s
+2020-12-01 18:59:00,398  ::  Communicating the task end to master
+2020-12-01 18:59:46,048  ::  Starting worker
+2020-12-01 18:59:46,049  ::  Worker Started
+2020-12-01 18:59:49,397  ::  Received request from the Master
+2020-12-01 18:59:49,397  ::  STARTING: Task with Task ID: 1_M1 on Worker
+2020-12-01 18:59:49,644  ::  Received request from the Master
+2020-12-01 18:59:49,644  ::  Received request from the Master
+2020-12-01 18:59:49,645  ::  STARTING: Task with Task ID: 2_M1 on Worker
+2020-12-01 18:59:49,645  ::  STARTING: Task with Task ID: 2_M0 on Worker
+2020-12-01 18:59:52,399  ::  ENDING: Task with Task ID: 1_M1 on Worker that ran for 3.002267s
+2020-12-01 18:59:52,399  ::  Communicating the task end to master
+2020-12-01 18:59:52,646  ::  ENDING: Task with Task ID: 2_M1 on Worker that ran for 3.001528s
+2020-12-01 18:59:52,647  ::  Communicating the task end to master
+2020-12-01 18:59:52,768  ::  Received request from the Master
+2020-12-01 18:59:52,770  ::  Received request from the Master
+2020-12-01 18:59:52,771  ::  STARTING: Task with Task ID: 1_R0 on Worker
+2020-12-01 18:59:52,771  ::  STARTING: Task with Task ID: 7_M1 on Worker
+2020-12-01 18:59:53,646  ::  ENDING: Task with Task ID: 2_M0 on Worker that ran for 4.001068s
+2020-12-01 18:59:53,646  ::  Communicating the task end to master
+2020-12-01 18:59:53,967  ::  Received request from the Master
+2020-12-01 18:59:53,969  ::  STARTING: Task with Task ID: 8_M0 on Worker
+2020-12-01 18:59:54,773  ::  ENDING: Task with Task ID: 1_R0 on Worker that ran for 2.001307s
+2020-12-01 18:59:54,773  ::  Communicating the task end to master
+2020-12-01 18:59:54,970  ::  ENDING: Task with Task ID: 8_M0 on Worker that ran for 1.000641s
+2020-12-01 18:59:54,970  ::  Communicating the task end to master
+2020-12-01 18:59:55,295  ::  Received request from the Master
+2020-12-01 18:59:55,295  ::  STARTING: Task with Task ID: 9_M2 on Worker
+2020-12-01 18:59:55,711  ::  Received request from the Master
+2020-12-01 18:59:55,711  ::  STARTING: Task with Task ID: 5_R1 on Worker
+2020-12-01 18:59:56,773  ::  ENDING: Task with Task ID: 7_M1 on Worker that ran for 4.001403s
+2020-12-01 18:59:56,773  ::  Communicating the task end to master
+2020-12-01 18:59:56,775  ::  Received request from the Master
+2020-12-01 18:59:56,776  ::  STARTING: Task with Task ID: 7_R0 on Worker
+2020-12-01 18:59:57,713  ::  ENDING: Task with Task ID: 5_R1 on Worker that ran for 2.001908s
+2020-12-01 18:59:57,713  ::  Communicating the task end to master
+2020-12-01 18:59:57,777  ::  Received request from the Master
+2020-12-01 18:59:57,780  ::  STARTING: Task with Task ID: 6_R1 on Worker
+2020-12-01 18:59:59,298  ::  ENDING: Task with Task ID: 9_M2 on Worker that ran for 4.002015s
+2020-12-01 18:59:59,298  ::  Communicating the task end to master
+2020-12-01 18:59:59,780  ::  Received request from the Master
+2020-12-01 18:59:59,781  ::  STARTING: Task with Task ID: 12_M1 on Worker
+2020-12-01 19:00:00,777  ::  ENDING: Task with Task ID: 7_R0 on Worker that ran for 4.001685s
+2020-12-01 19:00:00,777  ::  Communicating the task end to master
+2020-12-01 19:00:00,782  ::  ENDING: Task with Task ID: 12_M1 on Worker that ran for 1.000381s
+2020-12-01 19:00:00,782  ::  Communicating the task end to master
+2020-12-01 19:00:00,782  ::  Received request from the Master
+2020-12-01 19:00:00,782  ::  STARTING: Task with Task ID: 14_M0 on Worker
+2020-12-01 19:00:01,781  ::  ENDING: Task with Task ID: 6_R1 on Worker that ran for 4.001525s
+2020-12-01 19:00:01,782  ::  Communicating the task end to master
+2020-12-01 19:00:01,783  ::  Received request from the Master
+2020-12-01 19:00:01,785  ::  STARTING: Task with Task ID: 10_R1 on Worker
+2020-12-01 19:00:02,785  ::  Received request from the Master
+2020-12-01 19:00:02,786  ::  ENDING: Task with Task ID: 10_R1 on Worker that ran for 1.000655s
+2020-12-01 19:00:02,787  ::  Communicating the task end to master
+2020-12-01 19:00:02,789  ::  STARTING: Task with Task ID: 13_R0 on Worker
+2020-12-01 19:00:03,783  ::  ENDING: Task with Task ID: 14_M0 on Worker that ran for 3.000806s
+2020-12-01 19:00:03,783  ::  Communicating the task end to master
+2020-12-01 19:00:04,311  ::  Received request from the Master
+2020-12-01 19:00:04,312  ::  STARTING: Task with Task ID: 17_M3 on Worker
+2020-12-01 19:00:04,672  ::  Received request from the Master
+2020-12-01 19:00:04,672  ::  STARTING: Task with Task ID: 18_M0 on Worker
+2020-12-01 19:00:06,315  ::  ENDING: Task with Task ID: 17_M3 on Worker that ran for 2.002453s
+2020-12-01 19:00:06,315  ::  Communicating the task end to master
+2020-12-01 19:00:06,791  ::  ENDING: Task with Task ID: 13_R0 on Worker that ran for 4.002004s
+2020-12-01 19:00:06,791  ::  Communicating the task end to master
+2020-12-01 19:00:07,478  ::  Received request from the Master
+2020-12-01 19:00:07,479  ::  STARTING: Task with Task ID: 21_M0 on Worker
+2020-12-01 19:00:08,675  ::  ENDING: Task with Task ID: 18_M0 on Worker that ran for 4.002661s
+2020-12-01 19:00:08,675  ::  Communicating the task end to master
+2020-12-01 19:00:08,676  ::  Received request from the Master
+2020-12-01 19:00:08,676  ::  STARTING: Task with Task ID: 18_R0 on Worker
+2020-12-01 19:00:09,114  ::  Received request from the Master
+2020-12-01 19:00:09,114  ::  STARTING: Task with Task ID: 22_M0 on Worker
+2020-12-01 19:00:09,677  ::  ENDING: Task with Task ID: 18_R0 on Worker that ran for 1.000795s
+2020-12-01 19:00:09,677  ::  Communicating the task end to master
+2020-12-01 19:00:10,609  ::  Received request from the Master
+2020-12-01 19:00:10,610  ::  STARTING: Task with Task ID: 24_M2 on Worker
+2020-12-01 19:00:11,480  ::  ENDING: Task with Task ID: 21_M0 on Worker that ran for 4.001169s
+2020-12-01 19:00:11,480  ::  Communicating the task end to master
+2020-12-01 19:00:12,115  ::  ENDING: Task with Task ID: 22_M0 on Worker that ran for 3.000904s
+2020-12-01 19:00:12,116  ::  Communicating the task end to master
+2020-12-01 19:00:13,118  ::  Received request from the Master
+2020-12-01 19:00:13,119  ::  STARTING: Task with Task ID: 22_R0 on Worker
+2020-12-01 19:00:14,612  ::  ENDING: Task with Task ID: 24_M2 on Worker that ran for 4.002492s
+2020-12-01 19:00:14,612  ::  Communicating the task end to master
+2020-12-01 19:00:15,120  ::  ENDING: Task with Task ID: 22_R0 on Worker that ran for 2.001212s
+2020-12-01 19:00:15,120  ::  Communicating the task end to master
