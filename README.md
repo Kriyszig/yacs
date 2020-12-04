@@ -43,7 +43,8 @@ The argument `sa` is used to select the scheduling algorithm
 
 ---
 
-If you have any trouble running the project, you can open an issue or you can contact me [Prateek Nayak] personally using the email id lelouch.cpp@gmail.com
+If you have any trouble running the project, you can open an issue or you can contact me [Prateek Nayak] personally using the email id lelouch.cpp@gmail.com  
+This implementation of YACS was tested majorly on Linux because it allows us to do stupid stuff fast.  
 
 ---
 
