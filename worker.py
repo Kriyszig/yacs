@@ -20,7 +20,6 @@ class Worker:
         logging.info('STARTING: Task with Task ID: {} on Worker'.format(task_id))
         start_time = datetime.now()
         await asyncio.sleep(task_runtime)
-        end_time = datetime.utcnow()
         logging.info('ENDING: Task with Task ID: {} on Worker that ran for {}s'.format(task_id, (datetime.now() - start_time).total_seconds()))
         
         status_m = {'code': 200, 'response' : 'Success'}

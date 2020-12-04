@@ -14,7 +14,7 @@ do
     python3 master.py -sa="$alg"&
     processid=$!
     echo "$processid" >> util/pid.txt
-    python3 requests.py "$sizes"
+    python3 requests.py "$sizes" < util/request.inp
     sleep "$sleep_val"
     echo "Done one iteration"
     ./stop-all.sh

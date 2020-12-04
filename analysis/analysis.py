@@ -89,6 +89,9 @@ class Analyze:
             points = []
             k += 1
           elif stop:
+            time_sum = 0
+            count = 0
+            points = []
             flag = True
 
         worker_records[k][2] += time_sum
@@ -115,11 +118,11 @@ class Analyze:
       dt = [k[0] for k in big_plot[i]]
       for j in range(1, len(big_plot[i][0])):
         plt.scatter(dt, [k[j] for k in big_plot[i]])
-      plt.xlabel('Jobs')
-      plt.ylabel('Time')
+      plt.xlabel('Time')
+      plt.ylabel('Tasks running')
       plt.title(algorithms[i] + " Scheduling")
     plt.tight_layout(pad=0.5)
-    #plt.show()
+    plt.show()
     plt.savefig('plot.jpg')
       
     
